@@ -52,6 +52,7 @@ h3 {
     font-family: 'Sorts Mill Goudy', serif;
     font-size: 20px;
     letter-spacing: 1px;
+    display: block;
 }
 
 #name,
